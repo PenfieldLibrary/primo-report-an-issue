@@ -19,8 +19,7 @@ This is an add-on for the "Send To" actions in Brief Records Display chat. It ad
     .
     .
     .
-    action: "https://<your report URL>?Permalink="+encodeURIComponent("https://<Your Primo URL>/discovery/search?query=any,contains,")+"{recordId}"+encodeURIComponent("&tab=default_tab&search_scope=all&sortby=rank&vid=<Your Primo Code>&offset=0")
-}]);
+    action: "https://<your report URL>?Permalink="+encodeURIComponent("https://<Your Primo URL>/discovery/search?query=any,contains,")+"     {recordId}"+encodeURIComponent("&tab=default_tab&search_scope=all&sortby=rank&vid=<Your Primo Code>&offset=0")}]);
     ```
 3. copy the follow from the src file into your custom.js file statring with to the end of the src file:
     ```
