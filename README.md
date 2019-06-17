@@ -1,7 +1,7 @@
 # primo-report-an-issue
 ## Description
 
-This is an add-on for the "Send To" actions in Brief Records Display chat. It adds report an issue button.
+This is an add-on for the "Send To" actions in Brief Records Display. It adds report an issue button.
 
 ### Screenshot
 
